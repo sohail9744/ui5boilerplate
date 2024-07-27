@@ -2,6 +2,8 @@
 
 [screen-capture (1).webm](https://github.com/user-attachments/assets/b10ff43d-3fae-4915-b615-daa12e7576bd)
 
+## Step-by-Step Guidance
+https://www.linkedin.com/pulse/how-optimize-multiple-sapui5-apps-one-dashboard-step-guide-khan-fatyf
 
 
 ## Application Details
